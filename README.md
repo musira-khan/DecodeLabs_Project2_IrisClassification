@@ -1,6 +1,6 @@
 # 🌷 Iris Classification Using Machine Learning  by - MUSIRA KHAN - 
 
-A beginner-friendly machine learning project that classifies iris flowers into different species based on their physical measurements.
+A beginner-friendly machine learning project that classifies iris flowers into different species based on their physical measurements, developed as part of the DecodeLabs Artificial Intelligence Internship – Project 2.
 
 This project demonstrates the complete basic machine learning workflow — from loading and preparing the dataset to training a classification model and deploying it through a Streamlit web application.
 
